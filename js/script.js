@@ -28,5 +28,5 @@ var triangle1Area = getTriangleArea(10, 15);
 console.log(triangle1Area);
 var triangle2Area = getTriangleArea(5, 10);
 console.log(triangle2Area);
-var triangle3Area = getTriangleArea(6, 5);
+var triangle3Area = getTriangleArea(-10, 5);
 console.log(triangle3Area);
