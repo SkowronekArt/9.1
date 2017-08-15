@@ -1,0 +1,24 @@
+{
+  "name": "grunt-jshint",
+  "version": "1.0.0",
+  "description": "Nauka JSHint w projektacj javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SkowronekArt/9.1.git"
+  },
+  "keywords": [
+    "javascript",
+    "JSHint",
+    "Grunt"
+  ],
+  "author": "Anna Skowronek-Jaskuła",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  }
+}
