@@ -16,7 +16,7 @@ function getTriangleArea(a, h) {
     "use strict";
     var triangleArea = a * h * 0.5;
     if ((a <= 0) || (h <= 0) || isNaN(triangleArea)) {
-        console.log("Nieprawidłowe dane");
+        return("Nieprawidłowe dane");
     } else {
         return triangleArea;
     }
